@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhcodes/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

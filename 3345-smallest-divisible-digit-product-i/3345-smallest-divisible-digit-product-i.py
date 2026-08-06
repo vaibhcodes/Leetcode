@@ -1,14 +1,12 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
-
-        def product(x):
-            p = 1
-            while x:
-                p *= x % 10
-                x //= 10
-            return p
-
-        while True:
-            if product(n) % t == 0:
-                return n
-            n += 1
+        for i in range(n,n+1000):
+            x=i
+            pr=1
+            while x>0:
+                pr*=x%10
+                x//=10
+            if pr%t==0:
+                return i
+                
+        

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -66,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

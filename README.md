@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhcodes/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhcodes/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |

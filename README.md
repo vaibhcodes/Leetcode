@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhcodes/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhcodes/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhcodes/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhcodes/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhcodes/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->

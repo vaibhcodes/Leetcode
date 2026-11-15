@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaibhcodes/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/vaibhcodes/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhcodes/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaibhcodes/Leetcode/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |

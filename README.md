@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/vaibhcodes/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhcodes/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhcodes/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/vaibhcodes/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |

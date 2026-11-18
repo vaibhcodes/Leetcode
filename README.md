@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/vaibhcodes/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vaibhcodes/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
 |  |
 | ------- |

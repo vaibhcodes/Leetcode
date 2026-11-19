@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/vaibhcodes/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhcodes/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/vaibhcodes/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/vaibhcodes/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |

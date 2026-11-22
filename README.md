@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhcodes/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/vaibhcodes/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/vaibhcodes/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vaibhcodes/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |

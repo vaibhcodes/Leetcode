@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vaibhcodes/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhcodes/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibhcodes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/vaibhcodes/Leetcode/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhcodes/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vaibhcodes/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/vaibhcodes/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -111,9 +113,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vaibhcodes/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhcodes/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhcodes/Leetcode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vaibhcodes/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vaibhcodes/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

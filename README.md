@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhcodes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhcodes/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhcodes/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhcodes/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3908-valid-digit-number](https://github.com/vaibhcodes/Leetcode/tree/master/3908-valid-digit-number) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaibhcodes/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/vaibhcodes/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhcodes/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhcodes/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhcodes/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhcodes/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhcodes/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhcodes/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/vaibhcodes/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vaibhcodes/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
